@@ -36,7 +36,7 @@ For more information: https://en.wikipedia.org/wiki/Fizz_buzz
 
 Rock Paper Scisors Game:
 ---------------------
-https://github.com/manishsingh7163/PYTHON-SIMPLE-PROJECTS/blob/master/images/rock%20paper%20scissors.png?raw=true
+<img src = "https://github.com/manishsingh7163/PYTHON-SIMPLE-PROJECTS/blob/master/images/rock%20paper%20scissors.png?raw=true">
 A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"[1]), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
 
 For more information:https://en.wikipedia.org/wiki/Rock_paper_scissors
@@ -62,5 +62,5 @@ Try to guess movie name.
 
 Snake and Ladder Game:
 ---------------------------
-https://github.com/manishsingh7163/PYTHON-SIMPLE-PROJECTS/blob/master/images/snake%20and%20ladder.jpg?raw=true
+<img src = "https://github.com/manishsingh7163/PYTHON-SIMPLE-PROJECTS/blob/master/images/snake%20and%20ladder.jpg?raw=true">
 
